@@ -1,1 +1,0 @@
-b='tum pagal ho'
