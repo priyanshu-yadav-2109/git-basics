@@ -1,2 +1,3 @@
 a='my name is priyanshu'
-print (a)
+
+b='hello world'
